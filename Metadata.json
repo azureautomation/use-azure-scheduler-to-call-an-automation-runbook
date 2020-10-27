@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 9232,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/use-azure-scheduler-to-call-an-automation-runbook/master/Set-AzureScheduleWithRunbook.ps1",
+    "DownloadCount": 1058,
+    "Id": "Use-Azure-Scheduler-to-f12fc37e",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 574,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-27T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook configures a new or existing Azure Scheduler job that calls an Automation runbook. Please read http://azure.microsoft.com/blog/2015/01/27/scheduling-azure-automation-runbooks-with-azure-scheduler for details on using this runbook.",
+    "Title": "Use Azure Scheduler to call an Automation Runbook",
+    "UpdatedDate": "2015-1-27T00:00:00",
+    "Url": "https://github.com/azureautomation/use-azure-scheduler-to-call-an-automation-runbook",
+    "UserTags": "Utility"
+}
